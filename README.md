@@ -1,4 +1,13 @@
-## Hi there 👋
+<div style="text-align: center; display: block;" markdown="1">
+  
+  <img src="https://www.arpa.tech/wp-content/uploads/2020/06/logo-arpa-elastic-solutions.png" alt="ARPA logo" style="text-align: center;"/>
+
+  Looks like you found my work-exclusive GitHub account! Check my personal GitHub account [here](https://github.com/TheForgottened).
+  
+</div>
+
+
+
 
 <!--
 **apaiva-arpa/apaiva-arpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
