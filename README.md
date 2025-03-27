@@ -1,7 +1,8 @@
-<div style="text-align: center; display: block;" markdown="1">
+<div style="text-align: center; display: block; width: 100%;" markdown="1">
   
   <img src="https://www.arpa.tech/wp-content/uploads/2020/06/logo-arpa-elastic-solutions.png" alt="ARPA logo" style="text-align: center;"/>
 
+  <br/><br/>
   Looks like you found my work-exclusive GitHub account! Check my personal GitHub account [here](https://github.com/TheForgottened).
   
 </div>
