@@ -1,6 +1,6 @@
 <div style="text-align: center; display: block; width: 100%;" markdown="1">
   
-  <img src="https://arpa.tech/wp-content/uploads/2025/07/Logotipo.svg" alt="ARPA logo" style="text-align: center;"/>
+  <img src="https://arpa.tech/wp-content/uploads/2025/07/Logotipo.svg" alt="ARPA logo" style="text-align: center;" width="400 px"/>
 
   <br/><br/>
   Looks like you found my work-exclusive GitHub account! Check my personal GitHub account [here](https://github.com/TheForgottened).
